@@ -1,0 +1,21 @@
+.navbar {
+  background: #fff !important;
+}
+
+.navbar-brand {
+  font-size: 1.9rem !important;
+  color: rgba(0, 38, 253, 0.911) !important;
+  border: none !important;
+}
+
+.navbar a {
+  font-size: 1.2rem;
+}
+.navbar a:hover {
+  color: blue !important;
+}
+
+.main_active {
+  font-weight: bold;
+  border-bottom: 1px solid blue;
+}
